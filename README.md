@@ -110,37 +110,11 @@ KairosMixP1/
 - [ ] Sistema de facturación integrado
 - [ ] Reportes de ventas y analytics
 
-### 📅 Versión 1.3 - Mezclas Personalizadas
-- [ ] Creador visual de mezclas
-- [ ] Calculadora automática de costos
-- [ ] Biblioteca de mezclas populares
-- [ ] Sistema de recetas y proporciones
 
 ## 🌍 Despliegue
 
 ### GitHub Pages
 El proyecto está configurado para despliegue automático en GitHub Pages:
-
-1. **Fork** este repositorio
-2. Ve a **Settings** > **Pages**
-3. Selecciona **Source**: Deploy from a branch
-4. Selecciona **Branch**: `gh-pages`
-5. Ejecuta `npm run deploy` desde tu fork
-
-### Otras Opciones
-- **Netlify**: Conecta tu repositorio para despliegue automático
-- **Vercel**: Ideal para proyectos React con zero-config
-- **Firebase Hosting**: Escalable y con CDN global
-
-## 👨‍💻 Contribución
-
-¡Las contribuciones son bienvenidas! Para contribuir:
-
-1. **Fork** el proyecto
-2. Crea una rama feature (`git checkout -b feature/NuevaFuncionalidad`)
-3. **Commit** tus cambios (`git commit -m 'Add: Nueva funcionalidad'`)
-4. **Push** a la rama (`git push origin feature/NuevaFuncionalidad`)
-5. Abre un **Pull Request**
 
 ### Convenciones de Commits
 - `Add:` Nueva funcionalidad
@@ -148,10 +122,6 @@ El proyecto está configurado para despliegue automático en GitHub Pages:
 - `Update:` Actualización de funcionalidad existente
 - `Style:` Cambios de estilo/CSS
 - `Docs:` Cambios en documentación
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 
 <div align="center">
